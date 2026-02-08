@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mon site</title>
+</head>
+<body>
+  <h1>Bienvenue sur mon site</h1>
+  <p>Ce site est créé depuis mon téléphone 📱</p>
+
+  <button onclick="alerte()">Clique ici</button>
+
+  <script>
+    function alerte() {
+      alert("Bravo ! Tu viens de cliquer 😄");
+    }
+  </script>
+</body>
+</html>
